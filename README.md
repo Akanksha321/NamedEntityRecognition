@@ -26,9 +26,12 @@ Project Organization
                             4. LabelledDataNER.csv <- Labelled each entities manually.  
      
     │   ├── notebooks        <- contains ipnyb files with results to  get a quick glance.   
-                            1. BiLSTM_CRF_NER.ipnyb <- Model for predicting tags.  
+                            1. BiLSTM_CRF_NER.py <- Model for predicting tags.  
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+    
+    
+    
 
 
 --------
