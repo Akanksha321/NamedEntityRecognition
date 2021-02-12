@@ -3,6 +3,11 @@ NamedEntityRecognition
 
 This is a project to recognize entities from a given document
 
+Coding Files -  
+1. InvoiceOCR.py   
+2. BiLSTM_CRF_NER.ipnyb  
+
+
 Project Organization
 ------------
 
