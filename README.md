@@ -5,7 +5,7 @@ This is a project to recognize entities from a given document
 
 Coding Files -  
 1. InvoiceOCR.py   
-2. BiLSTM_CRF_NER.ipnyb  
+2. BiLSTM_CRF.ipnyb  
 
 Result - 
 https://github.com/Akanksha321/NamedEntityRecognition/tree/main/src/notebooks/classificationreport.png
@@ -29,7 +29,7 @@ Project Organization
                             4. LabelledDataNER.csv <- Labelled each entities manually.  
      
     │   ├── notebooks        <- contains ipnyb files with results to  get a quick glance.   
-                            1. BiLSTM_CRF_NER.py        <- Model for predicting tags.  
+                            1. BiLSTM_CRF.py        <- Model for predicting tags.  
                             2. classificationreport.png <- Snip of classification report and F1 score
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
