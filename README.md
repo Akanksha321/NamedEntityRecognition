@@ -7,6 +7,9 @@ Coding Files -
 1. InvoiceOCR.py   
 2. BiLSTM_CRF_NER.ipnyb  
 
+Result - 
+https://github.com/Akanksha321/NamedEntityRecognition/tree/main/src/notebooks/classificationreport.png
+
 
 Project Organization
 ------------
